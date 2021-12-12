@@ -19,6 +19,7 @@ function readNumber($number, $number2) {
     }
 
     var_dump($arrayOfNumbers);
+}
 
 
 if (key_exists('number', $_POST)) {
